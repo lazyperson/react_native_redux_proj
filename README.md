@@ -1,0 +1,2 @@
+# react_native_redux_proj
+基于Redux的React Native的APP初始化项目
